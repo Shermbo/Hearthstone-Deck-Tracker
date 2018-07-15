@@ -14,8 +14,7 @@ using Application = System.Windows.Application;
 namespace Hearthstone_Deck_Tracker
 {
 	// ReSharper disable once InconsistentNaming
-	// Shermbo comment - git test
-	// Just another GIT test
+	// Shermbo comment - git test another line
 	
 	public static class UITheme
 	{

@@ -10,6 +10,7 @@ namespace Hearthstone_Deck_Tracker.Hearthstone
 			RemainingInDeck = remainingInDeck;
 
 			// Shermbo test comments - git test
+			// another line
 		}
 
 		public IEnumerable<Card> RemainingInDeck { get; }
