@@ -15,7 +15,7 @@ namespace Hearthstone_Deck_Tracker
 {
 	// ReSharper disable once InconsistentNaming
 	// Shermbo comment - git test
-	// add this
+	// Just another GIT test
 	
 	public static class UITheme
 	{

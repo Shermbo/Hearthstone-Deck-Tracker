@@ -8,6 +8,8 @@ namespace Hearthstone_Deck_Tracker.Hearthstone
 		{
 			RemovedFromDeck = removedFromDeck;
 			RemainingInDeck = remainingInDeck;
+
+			// Shermbo test comments - git test
 		}
 
 		public IEnumerable<Card> RemainingInDeck { get; }
