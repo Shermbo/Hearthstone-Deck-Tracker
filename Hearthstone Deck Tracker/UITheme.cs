@@ -14,6 +14,7 @@ using Application = System.Windows.Application;
 namespace Hearthstone_Deck_Tracker
 {
 	// ReSharper disable once InconsistentNaming
+	// Shermbo comment - git test
 	public static class UITheme
 	{
 		private const string WindowAccentName = "Windows Accent";
