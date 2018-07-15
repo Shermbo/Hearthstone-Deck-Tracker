@@ -15,8 +15,8 @@ namespace Hearthstone_Deck_Tracker
 {
 	// ReSharper disable once InconsistentNaming
 	// Shermbo comment - git test
-	// Another line to test
-	// Yes another line
+	// add this
+	
 	public static class UITheme
 	{
 		private const string WindowAccentName = "Windows Accent";
